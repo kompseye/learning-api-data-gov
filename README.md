@@ -109,16 +109,20 @@ Check out these pictures
 
 
 ![alt text](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00127/opgs/edr/ncam/NLA_408775302EDR_D0051576NCAM00313M_.JPG)
+
 https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00127/opgs/edr/ncam/NLA_408775302EDR_D0051576NCAM00313M_.JPG
 
 
 ![alt text](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/02540/opgs/edr/fcam/FLB_622990123EDR_F0763002FHAZ00341M_.JPG)
+
 https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/02540/opgs/edr/fcam/FLB_622990123EDR_F0763002FHAZ00341M_.JPG
 
 ![alt text](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00127/opgs/edr/ncam/NLA_408775302EDR_D0051576NCAM00313M_.JPG)
+
 https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00127/opgs/edr/ncam/NLA_408775302EDR_D0051576NCAM00313M_.JPG
 
 ![alt text](https://mars.nasa.gov/msl-raw-images/msss/00127/mcam/0127MR0007840010200794C00_DXXX.jpg)
+
 https://mars.nasa.gov/msl-raw-images/msss/00127/mcam/0127MR0007840010200794C00_DXXX.jpg
 
 # References
