@@ -105,7 +105,9 @@ curl -s "https://api.nasa.gov/mars-photos/api/v1/rovers/opportunity/photos?api_k
 
 ```
 
-Check out these pictures!!
+Check out these pictures
+
+
 ![alt text](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00127/opgs/edr/ncam/NLA_408775302EDR_D0051576NCAM00313M_.JPG)
 https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00127/opgs/edr/ncam/NLA_408775302EDR_D0051576NCAM00313M_.JPG
 
